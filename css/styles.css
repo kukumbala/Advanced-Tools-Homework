@@ -32,6 +32,9 @@ p {
   font-size: 18px;
   line-height: 1.5;
 }
+a:hover {
+  color: #c9c1e3;
+}
 .row {
   padding-bottom: 45px;
 }
